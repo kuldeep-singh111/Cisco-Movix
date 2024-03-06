@@ -13,12 +13,10 @@
   <li>React-Redux: The official binding library for React and Redux ensures seamless integration between React components and the Redux store. </li><br>
   <li>React Icons: A library for adding a wide selection of icons to enhance the user interface. </li><br>
   <li> React Player: For seamless video playback of movies and TV shows </li><br>
-    <li>
-     React Select: Enhances the user experience with customizable select components.</li><br>
+    <li> React Select: Enhances the user experience with customizable select components.</li><br>
     <li>React Infinite Scroll Component: Provides infinite scrolling for effortless browsing of content. </li><br>
     <li>React Lazy Load Image Component: Delivers optimized image loading for faster page rendering. </li><br>
-  <li>Dayjs: A lightweight and modern JavaScript library for date and time formatting.
- </li><br>
+  <li>Dayjs: A lightweight and modern JavaScript library for date and time formatting. </li><br>
     <li>Sass: For efficient and maintainable styling. </li><br>
 
   
