@@ -19,5 +19,15 @@
   <li> <b>Dayjs: </b> A lightweight and modern JavaScript library for date and time formatting. </li><br>
     <li> <b>Sass:  </b>For efficient and maintainable styling. </li><br>
 
-  
+  <h2> Backend </h2> <br>
+  <li> <b>Axios: </b> A promise-based HTTP client for making network requests to fetch movie and TV show data.  </li> <br>
+  <h2> Development Tools </h2> <br>
+  <li> <b>Vite: </b> A fast build tool and development server that powers our project. </li> <br>
+
+  <h2> Deployment </h2>
+  <br>
+  <li> We deploy our website using Vercel. </li> <br>
+   <li> The deployment process involves building a production-ready version of the application and configuring a hosting environment for seamless access by users. </li> <br>
+    <li> Here is the website link : https://cisco-movix.vercel.app/  </li> <br>
+
  </ul>
